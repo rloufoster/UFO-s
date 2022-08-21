@@ -3,7 +3,7 @@
 Analyzing UFO data stored in a JavaScript array and creating a dynamic table to place into an HTML file for viewing
 
 <p align="center">
-    <img width="500" height="300" src= "https://github.com/rloufoster/surfs_up/blob/main/Resources/NorthShoreGraphic_Resized.png?raw=true">
+    <img width="500" height="300" src= "https://github.com/rloufoster/UFO-s/blob/main/static/images/AlienGraphic.png">
 </p> 
 
 ## Project Overview

@@ -27,7 +27,9 @@ Two deliverables were specifically requested:
 
 * Using JavaScript and HTML, the Phase 1 code was modified in the index.html file to enable the additional filters. The elements created in the code were given the same "id" as the object properties in the data.js file. In addition to the original date filter, city, state, country and shape filters were applied. See code below:
 
-![indexfilters_VSCode]()
+
+![indexfilters_VSCode](https://github.com/rloufoster/UFO-s/blob/main/static/images/indexfilters_VSCode.png?raw=true)
+
 
 * In the app.js file, an empty filters variable to keep track of all the elements that change when searched was entered. This varriable is used to store the property "id" and the value that was entered from the user. 
 
@@ -39,7 +41,9 @@ Two deliverables were specifically requested:
 
 * An if-else statement was written that checks if a value was changed by the user.  If a value was changed, add the element's id as the property and the value that was changed to the filters variable.  If the value was not entered, then clear the element id from the filters variable. See code below:
 
-![filterscodeapp_VSCode]()
+
+![filterscodeapp_VSCode](https://github.com/rloufoster/UFO-s/blob/main/static/images/filterscodeapp_VSCode.png?raw=true)
+
 
 * Inside the updateFilters() function the filterTable() function was called.  In the filterTable() function, code to filter the table based on the user input that is stored in the filters variable was added.
 
@@ -47,17 +51,22 @@ Two deliverables were specifically requested:
 
 * And finally, rebuild the table with the filtered data by passing the variable.  See code below:
 
-![LoopandBuildTableappCode]()
+
+![LoopandBuildTableappCode](https://github.com/rloufoster/UFO-s/blob/main/static/images/filterTableandBuildTableappCode.png?raw=true)
+
 
 
 ## Results
 
-![WebsiteGraphic]()
 
-![FilterGraphic]()
+![WebsiteGraphic](https://github.com/rloufoster/UFO-s/blob/main/static/images/WebsiteGraphic.png?raw=true)
+
+
+![FilterGraphic](https://github.com/rloufoster/UFO-s/blob/main/static/images/FilterGraphic.png?raw=true)
 
 
 ## Summary
+
 
 ### Drawbacks:
 
